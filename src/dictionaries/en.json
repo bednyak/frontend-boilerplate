@@ -1,0 +1,63 @@
+{
+  "homePage": {
+    "header": "Home Page"
+  },
+  "localeSwitcher": {
+    "title": "Locale switcher",
+    "currentLocale": "Current locale",
+    "description": "This text is rendered on the server"
+  },
+  "authModal": {
+    "signInTabText": "Sign In",
+    "signUpTabText": "Sign Up",
+    "orDivider": "or",
+    "validationError": "Invalid credentials",
+    "signInTab": {
+      "title": "Welcome Back!",
+      "emailOrPhoneInputLabel": "Enter Email of phone number",
+      "emailOrPhoneInputPlaceholder": "Email or phone number",
+      "passwordInputLabel": "Password",
+      "passwordInputPlaceholder": "Enter password",
+      "signInSuccess": "You have successfully\n signed in",
+      "forgotPassword": "Forgot Password",
+      "signInBtn": "Sign In"
+    },
+    "signUpTab": {
+      "title": "Create an account",
+      "emailOrPhoneInputLabel": "Enter Email of phone number",
+      "emailOrPhoneInputPlaceholder": "Email or phone number",
+      "passwordInputLabel": "Password",
+      "passwordInputPlaceholder": "Enter password",
+      "repeatPasswordInputLabel": "Repeat password",
+      "repeatPasswordInputPlaceholder": "Repeat password",
+      "signUpBtn": "Sign Up",
+      "acceptTerms": "I accept the terms of the licence agreement",
+      "signUpSuccess": "You have successfully\n crated an account"
+    }
+  },
+  "header": {
+    "searchPlaceholder": "Search product",
+    "searchButton": "Search",
+    "localeSwitcher": {
+      "en": "EN",
+      "ua": "UA"
+    }
+  },
+  "sidebar": {
+    "categories": {
+      "lapTops": "Laptops",
+      "computers": "Computers",
+      "smartPhones": "Smartphones",
+      "gamingProducts": "Gaming products",
+      "tvAndMonitors": "TV & Monitors",
+      "audioProducts": "Audio products",
+      "largeAppliances": "Large appliances",
+      "smallAppliances": "Small appliances",
+      "tools": "Tools",
+      "drones": "Drones",
+      "houseHoldChemicals": "Household chemicals",
+      "dishes": "Dishes",
+      "promotionalProducts": "Promotional products"
+    }
+  }
+}

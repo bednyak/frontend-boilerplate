@@ -1,0 +1,17 @@
+export const colors = {
+	flashGreen: "#CDFF3A",
+	lightGray: "#EDEDED",
+	mediumGray: "#D1D1D1",
+	disabled: "#717171",
+	stroke: "rgba(0, 0, 0, 0.2)",
+	newLabel: "#E8730B",
+	topLabel: "#02BA39",
+	bestSellerLabel: "#BB2A54",
+	discountLilacLabel: "#9283FF",
+	discountTorquoiseLabel: "#00AF98",
+	google: "#DB2F38",
+	facebook: "#008BFF",
+	error: "rgba(187, 42, 84, 0.04)",
+	errorDark: "#BB2A54",
+	["modal-backdrop"]: "rgba(0, 0, 0, 0.6)",
+}

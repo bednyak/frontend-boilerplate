@@ -1,0 +1,62 @@
+{
+  "homePage": {
+    "header": "Домашня Сторінка"
+  },
+  "localeSwitcher": {
+    "title": "Перемикач мови",
+    "currentLocale": "Поточна мова",
+    "description": "Цей текст був відрендереним на сервері"
+  },
+  "authModal": {
+    "signInTabText": "Увійти",
+    "signUpTabText": "Зареєструватися",
+    "orDivider": "або",
+    "signInTab": {
+      "title": "З поверненням!",
+      "emailOrPhoneInputLabel": "Введіть Email або номер телефону",
+      "emailOrPhoneInputPlaceholder": "Введіть Email або номер телефону",
+      "passwordInputLabel": "Пароль",
+      "passwordInputPlaceholder": "Введіть пароль",
+      "signInSuccess": "Ви успішно\nувійшли в систему",
+      "forgotPassword": "Забули пароль",
+      "signInBtn": "Увійти"
+    },
+    "signUpTab": {
+      "title": "Створіть обліковий запис",
+      "emailOrPhoneInputLabel": "Введіть Email або номер телефону",
+      "emailOrPhoneInputPlaceholder": "Введіть Email або номер телефону",
+      "passwordInputLabel": "Пароль",
+      "passwordInputPlaceholder": "Введіть пароль",
+      "repeatPasswordInputLabel": "Повторіть пароль",
+      "repeatPasswordInputPlaceholder": "Повторіть пароль",
+      "signUpBtn": "Зареєструватися",
+      "acceptTerms": "Я приймаю умови ліцензійної угоди",
+      "signUpSuccess": "Ви успішно\nстворили обліковий запис"
+    }
+  },
+  "header": {
+    "searchPlaceholder": "Шукати товар",
+    "searchButton": "Шукати",
+    "localeSwitcher": {
+      "en": "Англ",
+      "ua": "Укр"
+    }
+  },
+  "sidebar": {
+    "categories": {
+      "lapTops": "Ноутбуки",
+      "computers": "Комп'ютери",
+      "smartPhones": "Смартфони",
+      "gamingProducts": "Ігрові продукти",
+      "tvAndMonitors": "Телевізори та монітори",
+      "audioProducts": "Аудіопродукція",
+      "largeAppliances": "Велика побутова техніка",
+      "smallAppliances": "Мала побутова техніка",
+      "tools": "Інструменти",
+      "drones": "Дрони",
+      "houseHoldChemicals": "Побутова хімія",
+      "dishes": "Посуд",
+      "promotionalProducts": "Рекламні продукти"
+    }
+  }
+}
